@@ -1,0 +1,6 @@
+{
+  "name": "RISO LAB // DIY Risograph Print Studio",
+  "description": "Interactive risograph print studio to separate photos and compositions into 2 or 3 spot ink colors with halftones, paper grain, layer misalignment, and master stencil export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
